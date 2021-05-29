@@ -1,3 +1,3 @@
-[Go to Home Page]('https://ambaqinejad.github.io/DocsifyDemo/#/)
+[Go to Home Page](/)
 
-[Go to Guide Page]('https://ambaqinejad.github.io/DocsifyDemo/#/guide)
+[Go to Guide Page](guide)
