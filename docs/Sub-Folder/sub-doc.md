@@ -1,3 +1,3 @@
 [Go to Home Page](/)
 
-[Go to Guide Page](guide)
+[Go to Guide Page](guide.md)
